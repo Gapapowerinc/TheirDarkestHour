@@ -1,0 +1,2 @@
+GBA = "countries/Great Britan.txt"
+CAR = "countries/Centreal American Republic.txt"
